@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa28a884dc5ea8971f43b325b025b498",
+    "revision": "2b9a47ccec70108c42580cb98894b273",
     "url": "/HeroHacks/index.html"
   },
   {
-    "revision": "e15de475b9d85f0ef4b3",
+    "revision": "b574d0c238d690fa562a",
     "url": "/HeroHacks/static/css/main.17e379c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HeroHacks/static/js/2.49edfffe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e15de475b9d85f0ef4b3",
-    "url": "/HeroHacks/static/js/main.39dbe74c.chunk.js"
+    "revision": "b574d0c238d690fa562a",
+    "url": "/HeroHacks/static/js/main.fc2745da.chunk.js"
   },
   {
     "revision": "adae9f45ae74512f2945",

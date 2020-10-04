@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HeroHacks/static/css/main.17e379c0.chunk.css",
-    "main.js": "/HeroHacks/static/js/main.39dbe74c.chunk.js",
-    "main.js.map": "/HeroHacks/static/js/main.39dbe74c.chunk.js.map",
+    "main.js": "/HeroHacks/static/js/main.fc2745da.chunk.js",
+    "main.js.map": "/HeroHacks/static/js/main.fc2745da.chunk.js.map",
     "runtime-main.js": "/HeroHacks/static/js/runtime-main.39f6b350.js",
     "runtime-main.js.map": "/HeroHacks/static/js/runtime-main.39f6b350.js.map",
     "static/js/2.49edfffe.chunk.js": "/HeroHacks/static/js/2.49edfffe.chunk.js",
     "static/js/2.49edfffe.chunk.js.map": "/HeroHacks/static/js/2.49edfffe.chunk.js.map",
     "index.html": "/HeroHacks/index.html",
-    "precache-manifest.dc01a210d8bc1e2946dd3bc4c0e9178d.js": "/HeroHacks/precache-manifest.dc01a210d8bc1e2946dd3bc4c0e9178d.js",
+    "precache-manifest.061939a2601a37e19594bf784f625b7b.js": "/HeroHacks/precache-manifest.061939a2601a37e19594bf784f625b7b.js",
     "service-worker.js": "/HeroHacks/service-worker.js",
     "static/css/main.17e379c0.chunk.css.map": "/HeroHacks/static/css/main.17e379c0.chunk.css.map",
     "static/js/2.49edfffe.chunk.js.LICENSE.txt": "/HeroHacks/static/js/2.49edfffe.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.39f6b350.js",
     "static/js/2.49edfffe.chunk.js",
     "static/css/main.17e379c0.chunk.css",
-    "static/js/main.39dbe74c.chunk.js"
+    "static/js/main.fc2745da.chunk.js"
   ]
 }
