@@ -2,7 +2,7 @@
   "name": "shelter-hero",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thavrajshah.github.io/HeroHacks",
+  "homepage": "https://thavrajshah.github.io/ShelterHero",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
