@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shelterhero/static/css/main.17e379c0.chunk.css",
+    "main.js": "/shelterhero/static/js/main.56ed1034.chunk.js",
+    "main.js.map": "/shelterhero/static/js/main.56ed1034.chunk.js.map",
+    "runtime-main.js": "/shelterhero/static/js/runtime-main.14a98679.js",
+    "runtime-main.js.map": "/shelterhero/static/js/runtime-main.14a98679.js.map",
+    "static/js/2.49edfffe.chunk.js": "/shelterhero/static/js/2.49edfffe.chunk.js",
+    "static/js/2.49edfffe.chunk.js.map": "/shelterhero/static/js/2.49edfffe.chunk.js.map",
+    "index.html": "/shelterhero/index.html",
+    "precache-manifest.72c98d40570add34dc2b8d9217462b9f.js": "/shelterhero/precache-manifest.72c98d40570add34dc2b8d9217462b9f.js",
+    "service-worker.js": "/shelterhero/service-worker.js",
+    "static/css/main.17e379c0.chunk.css.map": "/shelterhero/static/css/main.17e379c0.chunk.css.map",
+    "static/js/2.49edfffe.chunk.js.LICENSE.txt": "/shelterhero/static/js/2.49edfffe.chunk.js.LICENSE.txt",
+    "static/media/user.png": "/shelterhero/static/media/user.5405d77c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a98679.js",
+    "static/js/2.49edfffe.chunk.js",
+    "static/css/main.17e379c0.chunk.css",
+    "static/js/main.56ed1034.chunk.js"
+  ]
+}
