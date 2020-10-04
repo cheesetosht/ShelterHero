@@ -13,7 +13,7 @@ export default class App extends Component {
     return (
       <GlobalProvider>
         <div className="container">
-          <Router>
+          <Router basename="HeroHacks">
             <Header />
             <Switch>
               <Route path="/" exact component={Profile} />
